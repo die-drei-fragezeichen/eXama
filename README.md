@@ -1,4 +1,4 @@
-# repo
+# eXama
 
 TEAM NAME:
 Die 3 Fragezeichen
