@@ -4,18 +4,19 @@ TEAM NAME:
 Die 3 Fragezeichen
 
 TEAM MEMBERS:
-Jonas Balsinger (jonasbalsiger)
+Jonas Balsiger (jonasbalsiger)
 Benedict Grupp (BenedictGrupp)
 Jacqueline Issa (yellow1987)
 Kosta Kyriases (ko-sta)
 Roman Pfäffli (rotheman)
 
 PROBLEM STATEMENT:
-Students need to have an overview of their exams to better plan their studying during the school semester. Teachers need also to have an overview of all kind of graded projects (written exams, oral exams, presentations) in order to know when to best plan an exam and to know when their students workload is too high. Current planning tools used at schools do not show the workload and the design aspect is often neglected.
+In educational settings students often struggle to keep their academic assignments organized and their workload on track. Even though teachers have a fairly clear idea how much work their homework assignments mean for students, and even though schools normally have a strict policy as to how many exams are accepted over a given period of time, constant work overload is a widespread issue. At the same time, teachers battle with assessing their students’ study situation adequately when assigning homework tasks or planning exams. Current planning tools address these problems individually, but they fail to address the fact that both homework assignments and exam preparations are intertwined. Consequently, this leads to bad planning, insufficient academic performance and stress. Additionally, the absence of a useful tool leads to a situation in which these problems can hardly be addressed, assessed and dealt with. 
 
 DESCRIPTION:
-Our project is a browser-based (and app) planning tool to organize exam dates. Teachers can enter their exam dates which will be also visible to the students. The students will get an overview about their semester which will help them to better plan their studying. When the teachers enter their exam dates they specify also what kind of exam it is (written exam, vocabulary test, oral exam, presentation, project due). The tool translates the type of exam into a specific workload, for example a written exam would mean a higher workload than a vocabulary test. The workload which any student has during a semester will be shown in a visual way which is quick and easy to understand.
+eXama is a browser- (and app-) based planning tool addressing the issue outlined above. Teachers enter homework assignments along with a workload expectation. If teachers set new exam dates, they also define examination types (e.g. normal or short tests, oral exams or project work). In their planning process, teachers immediately see their students' current workload and can take it into consideration. 
+Once an entry is completed, eXama’s algorithm will translate this information into a general workload overview. Simultaneously, exam dates will be visualised in a semester plan. This information will then be available to all parties involved. eXama school admins can alter and individualise parameters for their school according to their predefined ideas. Once exam limits are reached, eXama will keep teachers from adding exams and increasing students’ workload further. Thus, a useful level of flexibility is also provided. 
 
 RATIONALE:
-Current available exam date tools do not show the workloads the students have. They also do not show if a planned exam is a rather big or rather small exam for which students need need to study accordingly more or less. Also, teachers usually do not have an overview of oral exams, graded projects and presentations from other subject and therefore cannot estimate the time students have for their own subject. Our tool will not only give an overview of ALL type of graded projects which students have, and therefore their workload, it will also give a nice visual representation of it which current planning tools often lack. 
+Currently available planning tools in education do not adequately show the workloads students face. This makes effective and transparent planning difficult for both teachers and students. eXama’s weekly workload view and its clearly structured semester view help all parties improve their planning ability and organise study times. eXama appreciates the fact that different homework tasks and different exam types have an impact on a student’s overall study situation. Putting a rationale behind these different tasks allows keeping an overview of what is going on in students’ academic lives and by having this information, potential conflicts can be reduced and transparently addressed. When planning, teachers usually seek web-based solutions, while students are more used to retrieving information on mobile devices. Thus, both services will be available to maximise user satisfaction. 
 
