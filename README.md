@@ -1,5 +1,7 @@
 # eXama
 
+WEB ADRESS: https://exama.ch
+
 TEAM NAME:
 Die 3 Fragezeichen
 
