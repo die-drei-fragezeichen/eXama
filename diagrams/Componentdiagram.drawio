@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-24T16:27:52.613Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="FieubfVFuayWjXVGDZkn" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-24T21:24:25.661Z" agent="5.0 (Windows)" etag="HiQ6ar5v0_fWfpqDbuBs" version="14.4.2" type="github">
   <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
-    <mxGraphModel dx="1449" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="941" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -15,7 +15,7 @@
         <mxCell id="nPy8sIveKaSQb-D-Oaqv-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;align=left;" parent="1" vertex="1">
           <mxGeometry x="190" y="370" width="410" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="hPJNeQcR5pb7TXHDENTw-1" value="«Component»&lt;br&gt;&lt;b&gt;School Database&lt;/b&gt;" style="html=1;dropTarget=0;" parent="1" vertex="1">
+        <mxCell id="hPJNeQcR5pb7TXHDENTw-1" value="«Database»&lt;br&gt;&lt;b&gt;School DB&lt;/b&gt;" style="html=1;dropTarget=0;" parent="1" vertex="1">
           <mxGeometry x="750" y="300" width="130" height="90" as="geometry" />
         </mxCell>
         <mxCell id="hPJNeQcR5pb7TXHDENTw-2" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="hPJNeQcR5pb7TXHDENTw-1" vertex="1">
@@ -95,7 +95,7 @@
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nPy8sIveKaSQb-D-Oaqv-39" value="«Component»&lt;br&gt;&lt;b&gt;Security&lt;/b&gt;" style="html=1;dropTarget=0;" parent="1" vertex="1">
+        <mxCell id="nPy8sIveKaSQb-D-Oaqv-39" value="«Infrastructure»&lt;br&gt;&lt;b&gt;Security&lt;/b&gt;" style="html=1;dropTarget=0;" parent="1" vertex="1">
           <mxGeometry x="750" y="575" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="nPy8sIveKaSQb-D-Oaqv-40" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="nPy8sIveKaSQb-D-Oaqv-39" vertex="1">
@@ -129,7 +129,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nPy8sIveKaSQb-D-Oaqv-65" value="IAccess Control" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="670" y="607" width="40" height="20" as="geometry" />
+          <mxGeometry x="650" y="610" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nPy8sIveKaSQb-D-Oaqv-66" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontSize=10;" parent="1" target="nPy8sIveKaSQb-D-Oaqv-68" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -163,7 +163,7 @@
         <mxCell id="nPy8sIveKaSQb-D-Oaqv-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1.4;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=10;dashed=1;" parent="1" source="nPy8sIveKaSQb-D-Oaqv-73" target="nPy8sIveKaSQb-D-Oaqv-80" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nPy8sIveKaSQb-D-Oaqv-73" value="«Component»&lt;br&gt;&lt;b&gt;Infrastructure&lt;/b&gt;" style="html=1;dropTarget=0;" parent="1" vertex="1">
+        <mxCell id="nPy8sIveKaSQb-D-Oaqv-73" value="«Infrastructure»&lt;br&gt;&lt;b&gt;Persistence&lt;/b&gt;" style="html=1;dropTarget=0;" parent="1" vertex="1">
           <mxGeometry x="750" y="440" width="130" height="75" as="geometry" />
         </mxCell>
         <mxCell id="nPy8sIveKaSQb-D-Oaqv-74" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="nPy8sIveKaSQb-D-Oaqv-73" vertex="1">
