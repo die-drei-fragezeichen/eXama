@@ -1,13 +1,43 @@
-COMPONENT DIAGRAM:
+Description of COMPONENTS:
+
+User:	
+Responsibility: provide user
+Functionality: get, set, equals, …
+Data: name, email, password, status, …
+
+Role:	
+Responsibility: provide roles
+Functionality: get, set, equals, …
+Data: admin, teacher, pupil
+
+Course:
+Responsibility: provide courses
+Functionality: get, set, equals, …
+Data: coursetype
+
+Assignment:
+Responsibility: provide assignments
+Functionality: get, set, equals, …
+Data: type, course, subject, students, date, workload
+
+-------------------------------------------------------------------------------
+
+User Administration:
+Responsibility: user administration 
+Functionality: creates/manages/deletes useraccounts
+
+Assignment Management:
+Responsibility: assignment management
+Functionality: creates/manages/deletes assignments
+
+Workload Illustration:
+Responsibility: Visualisation of Workload
+Functionality: calculates Workload
+
+App Controller:
+Responsibility: User Interface
+Functionality: event handling Webinterface
 
 
-
-DEPLOYMENT DIAGRAM:
-
-The Web Server will host our eXama Website which will ""???" by JavaSpring. The Web Server will communicate through the TCP/IP protocol with a database and the client. 
-
-The database will store and provide all relevant information regarding the teachers, students, classes and exams which are necessary for our eXama Website. 
-
-The user, depicted as User Client will assess the eXama Website through his device's browser. The eXama Website will be made available to the user using HTML 5, CSS and JavaScript.
 
 
