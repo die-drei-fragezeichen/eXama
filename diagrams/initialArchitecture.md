@@ -1,4 +1,4 @@
-Description of COMPONENTS:
+Description of components:
 
 User:	
 Responsibility: provide user
