@@ -1,6 +1,6 @@
 # eXama
 
-WEB ADRESS: https://exama.ch
+WEB ADRESS: https://exama.ch:8080
 
 TEAM NAME:
 Die 3 Fragezeichen
